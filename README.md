@@ -12,7 +12,7 @@ Criar um site de investimentos em que o usuário preenche na coluna esquerda o i
 </p>
 
 <p align="center">
-<img src="https://github.com/Twistywasabi/projetoCronometro/blob/main/1715627447851.jpg"><br>
+<img src="https://github.com/Twistywasabi/projetoCalculadoraInvestimentos/blob/main/1715627448096.jpg"><br>
 <a>Imagem da parte da tabela</a>
 </p>
 
