@@ -1,33 +1,48 @@
-# Site Cronômetro 🚩
+# Investment Calculator 🚩
 
-Calculadora de investimentos baseado no curso da Hashtag Treinamentos
+A Web Calculator to see the investment along the period based on Hashtag Treinamentos 
 
-- Objetivo 📜
+## Objective 📜
 
-Criar um site de investimentos em que o usuário preenche na coluna esquerda o investimento inicial, aportes, prazo (mensal ou anual), rentabilidade (mensal ou anual), e imposto sobre lucro. No resto da página, terá um carrossel para alternar entre a versão gráfica de barras e de donut e a versão de tabela, com detlahes de rendimento de cada mês.
+Create an investment website in which the user fills in the initial investment, sports, term (monthly or annual), profitability (monthly or annual), and profit tax in the left column. On the rest of the page, you will have a carousel to switch between the bar and donut graphic version and the table version, with income details for each month.
 
 <p align="center">
 <img src="https://github.com/Twistywasabi/projetoCalculadoraInvestimentos/blob/main/1715627448242.jpg"><br>
-<a>Imagem da parte dos gráficos</a>
+<a>Graphics image</a>
 </p>
 
 <p align="center">
 <img src="https://github.com/Twistywasabi/projetoCalculadoraInvestimentos/blob/main/1715627448096.jpg"><br>
-<a>Imagem da parte da tabela</a>
+<a>Table image</a>
 </p>
 
-- Tecnologias 👨‍💻
-<p>
-* Javascript<br>
-* Node.js<br>
-</p>
+## Technologies and Tools 👨‍💻
 
-- Referências 📚
+- JavaScript
+- Typescript
+- Vite
+- Tailwind CSS
+- Vercel
+- npm chart.js
+- Code Table
 
-https://www.hashtagtreinamentos.com/
+## Result 🎁
 
-- Atualizações 🕐
+- https://investmentcalculator-theta.vercel.app/
 
-07/07/2024
+## References 📚
 
-Atualização do readme
+- https://tailwindcss.com/docs/installation/using-postcss
+- https://vite.dev/
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+- https://www.npmjs.com/
+- https://www.chartjs.org/docs/latest/getting-started/
+- https://www.codetable.net/
+
+## Updates 🕐
+
+- 2024/10/09
+
+    Updated Readme and Deploy on vercel
+
+## Pending issues 🚨
